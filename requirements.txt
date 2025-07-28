@@ -1,0 +1,7 @@
+llama-cpp-python
+fastapi
+uvicorn
+langchain
+chromadb
+pymupdf
+sentence-transformers
